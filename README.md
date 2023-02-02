@@ -1,5 +1,5 @@
 # Veri-Bilimi
-##Veri Bilimi Nedir ve Neden Önemlidir ?
+#Veri Bilimi Nedir ve Neden Önemlidir ?
 
 Veri bilimi, çıkarımlarda bulunmak için veri kullanımını geniş şekilde tanımlayan çok disiplinli bir alandır. Veri madenciliği veya veri mühendisliği gibi veri ile ilgili uzman alanların aksine veri bilimi, ham verileri kullanılabilir bilgilere dönüştürmenin ve çok çeşitli uygulamalarda üretken amaçlar için uygulamanın tüm yaşam döngüsünü kapsar.
 
